@@ -1,128 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>Shreeji Pack As</title>
-        <link type="image/x-icon" href="img/tab.png" rel="icon">
-
-        <!-- responsive meta -->
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- master stylesheet -->
-        <link rel="stylesheet" href="css/style.css">
-        <!-- responsive stylesheet -->
-        <link rel="stylesheet" href="css/bootstrap-margin-padding.css">
-        <link rel="stylesheet" href="css/responsive.css">
-        <link rel="stylesheet" href="vendor/slider/css/nivo-slider.css" type="text/css">
-        <link rel="stylesheet" href="vendor/slider/css/preview.css" type="text/css" media="screen">
-
-
-    </head>
-    <body class="page-wrapper">
-
-        <nav class="mainmenu-area stricky">
-            <div class="container">
-                <div class="logo pull-left">
-                    <a href="index.html">
-                        <img src="img/resources/logo.png" alt="Awesome Image"/>
-                    </a>
+<?php
+include_once('includes/header.php');
+?>
+        <div class="slider1-area overlay-default index1">
+            <div class="bend niceties preview-1">
+                <div id="ensign-nivoslider-3" class="slides nivoSlider">   
+                    <img src="img/slides/fronter.jpg" alt="slider" title="#slider-direction-1">
+                    <img src="img/slides/3.jpg" alt="slider" title="#slider-direction-3">
+                    <img src="img/slides/4.jpg" alt="slider" title="#slider-direction-4">
+                    <img src="img/slides/5.jpg" alt="slider" title="#slider-direction-5">
+                    <img src="img/slides/6.jpg" alt="slider" title="#slider-direction-6">
                 </div>
-                <div class="navigation">
-                    <div class="nav-header">
-                        <ul>
-                            <li class="dropdown">
-                                <a href="index.php">Home</a>
-                            </li>
-                            <li></li>						
-                            <li class="dropdown">
-                                <a href="#">Products</a>
-                                <ul class="submenu">
-                                    <li><a href="service-grid.html">Service Grid</a></li>
-                                    <li><a href="service-list.html">Service List</a></li>
-                                    <li><a href="service-single.html">Service Cause</a></li>
-                                </ul>
-                            </li>						
-                            <li class="dropdown">
-                                <a href="#">Manufacture</a>
-                                <ul class="submenu">
-                                    <li><a href="events-grid.html">Events Grid</a></li>
-                                    <li><a href="events-list.html">Events List</a></li>
-                                    <li><a href="events-single.html">Event Single</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#">About Us</a>
-                                <ul class="submenu">
-                                    <li><a href="team-style-one.html">Team Style One</a></li>
-                                    <li><a href="team-style-two.html">Team Style Two</a></li>
-                                    <li><a href="team-profile.html">Team Profile</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Contact Us</a></li>
-                        </ul>
-                    </div>
-                    <div class="nav-footer">
-                        <button><i class="fa fa-bars"></i></button>
-                    </div>
-                </div>
-            </div>
-        </nav> <!-- /.mainmenu-area -->
-
-
-        
-        
-        <section class="main-inner-header">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 sec-title colored text-center">
-                        <h2 class="text-white"></h2>
-                        <ul class="breadcumb">
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                        </ul>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-        <section class="sec-padding  pt-80 pb-90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 promote-project text-center">
-                        <h3 class="mt-0">What is bitcoin</h3>
-                        <div class="sec-title colored text-center">
-                            <span class="decor">
-                                <span class="inner"></span>
-                            </span>
+                <!-- <div class="nivo-controlNav nivo-thumbs-enabled"></div>  -->
+                <div id="slider-direction-1" class="t-cn slider-direction">
+                    <div class="slider-content s-tb slide-1">
+                        <div class="title-container s-tb-c">
+                            <!-- <h1 class="title1">Best Education For Design</h1>
+                            <p>Emply dummy text of the printing and typesetting industry orem Ipsum has been the industry's standard<br>dummy text ever sinceprinting and typesetting industry. </p>
+                            <div class="slider-btn-area">
+                                <a href="#" class="default-big-btn">Start a Course</a>
+                            </div>-->
                         </div>
-                        <h2>A New Kind of Money</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore. Amido ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore.Lorem ipsum dolor sit amet, consectetur.</p>
-                        <a href="#" class="thm-btn mb-xxs-15">Join us</a>
                     </div>
                 </div>
-            </div>
-        </section>
+                <div id="slider-direction-2" class="t-cn slider-direction">
+                    <div class="slider-content s-tb slide-2">
+                        <div class="title-container s-tb-c">
+                            <!--<h1 class="title1">Best Education For HTML Template</h1>
+                            <p>Emply dummy text of the printing and typesetting industry orem Ipsum has been the industry's standard<br>dummy text ever sinceprinting and typesetting industry. </p>
+                            <div class="slider-btn-area">
+                                <a href="#" class="default-big-btn">Start a Course</a>
+                            </div>-->
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
 
-        <section class="moto-text">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <p class="pull-left">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing.
-                        </p>
-                        <a class="thm-btn mb-xxs-15" href="#">Donate Now</a>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <section class="home-serivce sec-padding pb-40">
             <div class="container">
-                <div class="sec-title colored text-center">
-                    <h2>Why Choose Bitcoin</h2>
+                <div class="sec-title text-center colored">
+                    <h2>Our Mission</h2>
                     <p>Lorem ipsum is a dummy text it will use for subtitle here</p>
                     <span class="decor"><span class="inner"></span></span>
                 </div>
@@ -131,8 +49,8 @@
                         <div class="single-service-home">
                             <div class="content">
                                 <img src="img/bit/671474.svg" alt="">
-                                <h3>Bitcoin Transaction</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                <h3>Education</h3>
+                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
                                 <a class="btn-details" href="service-details.html">Read More</a>
                             </div>
                         </div>
@@ -141,8 +59,8 @@
                         <div class="single-service-home">
                             <div class="content">
                                 <img src="img/bit/671475.svg" alt="">
-                                <h3>Instant Exchange</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                <h3>Orphans</h3>
+                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
                                 <a class="btn-details" href="service-details.html">Read More</a>
                             </div>
                         </div>
@@ -151,8 +69,8 @@
                         <div class="single-service-home">
                             <div class="content">
                                 <img src="img/bit/671476.svg" alt="">
-                                <h3>Investment Banking</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                <h3>Water</h3>
+                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
                                 <a class="btn-details" href="service-details.html">Read More</a>
                             </div>
                         </div>
@@ -161,8 +79,8 @@
                         <div class="single-service-home">
                             <div class="content">
                                 <img src="img/bit/671477.svg" alt="">
-                                <h3>Safe and Secure</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                <h3>Health</h3>
+                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
                                 <a class="btn-details" href="service-details.html">Read More</a>
                             </div>
                         </div>
@@ -171,8 +89,8 @@
                         <div class="single-service-home">
                             <div class="content">
                                 <img src="img/bit/671478.svg" alt="">
-                                <h3>Investment Planning</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                <h3>Hunger</h3>
+                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
                                 <a class="btn-details" href="service-details.html">Read More</a>
                             </div>
                         </div>
@@ -181,8 +99,8 @@
                         <div class="single-service-home">
                             <div class="content">
                                 <img src="img/bit/671479.svg" alt="">
-                                <h3>Instant Trading</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+                                <h3>Emergencies</h3>
+                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
                                 <a class="btn-details" href="service-details.html">Read More</a>
                             </div>
                         </div>
@@ -192,40 +110,39 @@
         </section>
 
 
-        <section class="fact-counter-wrapper sec-padding parallax-section">
+        <section class="contact-content upcoming-event sec-padding bg-pattern pb-50">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-md-12 md-text-center">
-                        <h2>Invest in Cryptocurrency
-                            Bitcoin Mining & Easy Way to Trade Bitcoin.</h2>
-                        <a href="#" class="thm-btn inverse mb-md-40">Be a part of us</a>
+                    <div class="col-xs-12">
+                        <div class="sec-title text-center colored">
+                            <h2 class="text-white">Upcoming Events</h2>
+                            <p class="text-white">Lorem ipsum is a dummy text it will use for subtitle here</p>
+                            <span class="decor"><span class="inner"></span></span>
+                        </div>
                     </div>
-                    <div class="col-lg-6 col-md-12 md-text-center">
-                        <div class="single-fact">
-                            <div class="icon-box">
-                                <i class="flaticon-shapes-2"></i>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 col-xs-12">
+                        <form id="contact-page-contact-form" class="contact-form row" action="inc/sendemail.php" novalidate="novalidate">
+                            <div class="col-md-6">
+                                <input type="text" placeholder="Name" name="name">
+                                <input type="text" placeholder="Email" name="email">
+                                <input type="text" placeholder="Phone" name="phone">
+
                             </div>
-                            <span class="timer" data-from="10" data-to="365" data-speed="5000" data-refresh-interval="50">365</span>
-                            <p>Total Awards</p>
-                        </div>
-                        <div class="single-fact">
-                            <div class="icon-box">
-                                <i class="flaticon-people-3"></i>
+                            <div class="col-md-6">
+                                <textarea rows="10" cols="30" placeholder="Message" name="message"></textarea>
                             </div>
-                            <span class="timer" data-from="10" data-to="2200" data-speed="5000" data-refresh-interval="50">155</span>
-                            <p>Total Team</p>
-                        </div>
-                        <div class="single-fact">
-                            <div class="icon-box">
-                                <i class="flaticon-hands"></i>
-                            </div>
-                            <span class="timer" data-from="10" data-to="155" data-speed="5000" data-refresh-interval="50">2200</span>
-                            <p>Total Projects</p>
-                        </div>
+                            <div class="col-md-12"><button type="submit" class="thm-btn mb-sm-60">Send</button></div>
+                        </form>
                     </div>
                 </div>
             </div>
         </section>
+
+
+
 
 
         <section class="bit-coin-table sec-padding">
@@ -233,7 +150,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="auto-container">
-                            <div class="sec-title colored text-center">
+                            <div class="sec-title text-center colored">
                                 <h2>Cryptocurrency Prices</h2>
                                 <p>Lorem ipsum is a dummy text it will use for subtitle here</p>
                                 <span class="decor"><span class="inner"></span></span>
@@ -316,34 +233,35 @@
         </section>
 
 
-
-
-        <section class="contact-content upcoming-event sec-padding bg-pattern pb-50">
+        <section class="fact-counter-wrapper sec-padding parallax-section">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12">
-                        <div class="sec-title text-center">
-                            <h2 class="text-white">Upcoming Events</h2>
-                            <p class="text-white">Lorem ipsum is a dummy text it will use for subtitle here</p>
-                            <span class="decor"><span class="inner"></span></span>
-                        </div>
+                    <div class="col-lg-6 col-md-12 md-text-center">
+                        <h2>We are served since <b>35 years</b> <br>to helpless people with trust and <br>we are happy</h2>
+                        <a href="#" class="thm-btn inverse mb-md-40">Be a part of us</a>
                     </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-12 col-xs-12">
-                        <form id="contact-page-contact-form" class="contact-form row" action="inc/sendemail.php" novalidate="novalidate">
-                            <div class="col-md-6">
-                                <input type="text" placeholder="Name" name="name">
-                                <input type="text" placeholder="Email" name="email">
-                                <input type="text" placeholder="Phone" name="phone">
-
+                    <div class="col-lg-6 col-md-12 md-text-center">
+                        <div class="single-fact">
+                            <div class="icon-box">
+                                <i class="flaticon-shapes-2"></i>
                             </div>
-                            <div class="col-md-6">
-                                <textarea rows="10" cols="30" placeholder="Message" name="message"></textarea>
+                            <span class="timer" data-from="10" data-to="365" data-speed="5000" data-refresh-interval="50">365</span>
+                            <p>Total Awards</p>
+                        </div>
+                        <div class="single-fact">
+                            <div class="icon-box">
+                                <i class="flaticon-people-3"></i>
                             </div>
-                            <div class="col-md-12"><button type="submit" class="thm-btn mb-sm-60">Send</button></div>
-                        </form>
+                            <span class="timer" data-from="10" data-to="2200" data-speed="5000" data-refresh-interval="50">155</span>
+                            <p>Total Volunteer</p>
+                        </div>
+                        <div class="single-fact">
+                            <div class="icon-box">
+                                <i class="flaticon-hands"></i>
+                            </div>
+                            <span class="timer" data-from="10" data-to="155" data-speed="5000" data-refresh-interval="50">2200</span>
+                            <p>Total Projects</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -354,7 +272,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
-                        <div class="sec-title colored text-center">
+                        <div class="sec-title text-center colored">
                             <h2>Our Experts</h2>
                             <p>Lorem ipsum is a dummy text it will use for subtitle here</p>
                             <span class="decor"><span class="inner"></span></span>
@@ -545,7 +463,7 @@
 
         <section class="sec-padding testimonials-wrapper pt-70 pb-70">
             <div class="container">
-                <div class="sec-title text-center">
+                <div class="sec-title text-center colored">
                     <h2 class="text-white">Testimonials</h2>
                     <p class="text-white">
                         Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut.
@@ -682,7 +600,7 @@
 
         <section class="blog-home sec-padding">
             <div class="container">
-                <div class="sec-title colored text-center">
+                <div class="sec-title text-center colored">
                     <h2>Latest News</h2>
                     <p>Lorem ipsum is a dummy text it will use for subtitle here</p>
                     <span class="decor">
@@ -797,137 +715,57 @@
         </section>
 
 
-
-
-
-        <footer class="footer sec-padding">
+        <section class="p_35">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-6">
-                        <div class="footer-widget about-widget">
-                            <a href="#">
-                                <img src="img/resources/footer-logo.png" alt="Awesome Image"/>
-                            </a>
-                            <ul class="contact">
-                                <li><i class="fa fa-map-marker"></i> <span>60 Grant Ave. Carteret NJ 0708</span></li>
-                                <li><i class="fa fa-phone"></i> <span>(880) 1723801729</span></li>
-                                <li><i class="fa fa-envelope-o"></i> <span>example@gmail.com</span></li>
-                            </ul>
-                            <ul class="social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-2 col-sm-6">
-                        <div class="footer-widget quick-links">
-                            <h3 class="title">Pages</h3>
-                            <ul>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="causes-grid.html">Causes</a></li>
-                                <li><a href="events-grid.html">Events</a></li>
-                                <li><a href="faq.html">Faq</a></li>
-                                <li><a href="blog-style-two.html">Archives</a></li>
-                                <li><a href="blog-style-one.html">News</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-3 latest-post col-sm-6">
-                        <div class="footer-widget latest-post">
-                            <h3 class="title">Latest News</h3>
-                            <ul>
-                                <li>
-                                    <span class="border"></span>
-                                    <div class="content">
-                                        <a href="blog-details.html">If you need a crown or lorem an implant you will pay it </a>
-                                        <span>July 2, 2014</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <span class="border"></span>
-                                    <div class="content">
-                                        <a href="blog-details.html">If you need a crown or lorem an implant you will pay it </a>
-                                        <span>July 2, 2014</span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <span class="border"></span>
-                                    <div class="content">
-                                        <a href="blog-details.html">If you need a crown or lorem an implant you will pay it </a>
-                                        <span>July 2, 2014</span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="footer-widget contact-widget">
-                            <h3 class="title">Contact Form</h3>
-                            <p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
-                            <form id="footer-cf" class="contact-form" action="inc/sendemail.php" novalidate="novalidate">
-                                <input type="text" placeholder="Email Address" name="email">
-                                <button type="submit">Subscribe</button>
-                            </form>
+                    <div class="col-md-12">
+                        <div class="clients-carousel owl-carousel owl-theme">
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-2.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-3.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-4.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-5.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-1.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-2.png" alt="">
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="img-box">
+                                    <img src="img/clients/logo-3.png" alt="">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </footer>
-
-
-        <section class="footer-bottom">
-            <div class="container text-center">
-                <p>Theme Created By <a href="http://bestdesignstudio.in/">bestdesignstudio</a> with love</p>
-            </div>
         </section>
 
-        <!--Scroll to top-->
-        <div class="scroll-to-top"><span class="fa fa-arrow-up"></span></div>
-
-
-        <!-- main jQuery -->
-        <script src="js/jquery-2.1.4.js"></script>
-        <!-- bootstrap -->
-        <script src="js/bootstrap.min.js"></script>
-
-        <!-- owl carousel -->
-        <script src="js/owl.carousel.min.js"></script>
-        <!-- validate -->
-        <script src="js/jquery-parallax.js"></script>
-        <!-- validate -->
-        <script src="js/validate.js"></script>
-        <!-- mixit up -->
-        <script src="js/jquery.mixitup.min.js"></script>
-        <!-- fancybox -->
-        <script src="js/jquery.fancybox.pack.js"></script>
-        <!-- easing -->
-        <script src="js/jquery.easing.min.js"></script>
-        <!-- circle progress -->
-        <script src="js/circle-progress.js"></script>
-        <!-- appear js -->
-        <script src="js/jquery.appear.js"></script>
-        <!-- count to -->
-        <script src="js/jquery.countTo.js"></script>
-
-        <!-- isotope script -->
-        <script src="js/isotope.pkgd.min.js"></script>
-        <!-- jQuery ui js -->
-        <script src="js/jquery-ui-1.11.4/jquery-ui.js"></script>
-
-
-        <!-- Nivo slider js -->     
-        <script src="vendor/slider/js/jquery.nivo.slider.js" type="text/javascript"></script>
-        <script src="vendor/slider/home.js" type="text/javascript"></script>
-
-
-
-
-        <!-- thm custom script -->
-        <script src="js/custom.js"></script>
-
-
-    </body>
-</html>
+<?php
+include_once('includes/footer.php');
+?>

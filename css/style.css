@@ -208,7 +208,7 @@ img {
 }
 
 .sec-title.colored span.decor {
-  background: #f9a100 none repeat scroll 0 0;
+  background: #344d85 none repeat scroll 0 0;
 }
 .sec-title.colored span.decor span.inner {
 	background: #344d85;
@@ -1168,7 +1168,7 @@ img {
 }
 
 .bg-pattern::after {
-  /*background: #f9a100 none repeat scroll 0 0;
+  /*background: #344d85 none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -1260,7 +1260,7 @@ img {
   text-align: left;
 }
 .event-post .caption .entry-meta i {
-  color: #f9a100;
+  color: #344d85;
   font-size: 14px;
   margin-bottom: 0;
   margin-right: 5px;
@@ -1644,7 +1644,7 @@ img {
 	left: 0;
 	right: 0;
 	bottom:0;
-	background: rgba(249,161,0,0.75);
+	background: rgba(52,77,133,0.75);
 	opacity: 0;
 	transition: 0.3s all;
 	-ms-transition: 0.3s all;
@@ -1701,7 +1701,7 @@ img {
 	margin-bottom: 4px;
 }
 .single-team-member > span {
-  color: #f9a100;
+  color: #344d85;
   display: block;
   font-size: 13px;
   margin-bottom: 0;
@@ -1756,11 +1756,11 @@ img {
 
 .testimonials-wrapper {
 	
-	 background: #f9a100 none repeat scroll 0 0;
+	 background: #344d85 none repeat scroll 0 0;
 	
 }
 .testimonials-wrapper::before {
- /* background: #f9a100 none repeat scroll 0 0;
+ /* background: #344d85 none repeat scroll 0 0;
   bottom: 0;
   content: "";
   left: 0;
@@ -1851,7 +1851,7 @@ img {
 }
 
 .single-blog-post .img-box .overlay {
-  background: rgba(249, 161, 0, 0.8) none repeat scroll 0 0;
+  background: rgba(52,77,133,0.8) none repeat scroll 0 0;
   bottom: 0;
   left: 0;
   position: absolute;
@@ -2543,7 +2543,7 @@ img {
 /* 26 .about-content styles */
 
 .moto-text {
-  background: #f9a100 none repeat scroll 0 0;
+  background: #344d85 none repeat scroll 0 0;
   padding-bottom: 30px;
   padding-top: 30px;
 }
@@ -4037,4 +4037,7 @@ img {
 	background:#ffffff;
 	color:#000000;
 	border-color:#000000 !important;
+}
+.header-margin-2 {
+    margin-top:3%;
 }
