@@ -37,79 +37,139 @@ include_once('includes/header.php');
         </div>
 
 
-        <section class="home-serivce sec-padding pb-40">
+        <section class="home-serivce sec-padding pb_60">
             <div class="container">
                 <div class="sec-title text-center colored">
-                    <h2>Our Mission</h2>
+                    <h2>Our Product</h2>
                     <p>Lorem ipsum is a dummy text it will use for subtitle here</p>
                     <span class="decor"><span class="inner"></span></span>
                 </div>
-                <div class="row single-service-style">
-                    <div class="col-md-4 col-sm-6">
-                        <div class="single-service-home">
-                            <div class="content">
-                                <img src="img/bit/671474.svg" alt="">
-                                <h3>Education</h3>
-                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
-                                <a class="btn-details" href="service-details.html">Read More</a>
+                <div class="row causes-style piechart-style">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="causes sm-col5-center mb_30">
+                            <div class="thumb">
+                                <img class="full-width" alt="" src="img/causes/service-6.png">
+
+                            </div>
+                            <div class="causes-details clearfix">
+                                <h4 class="title"><a href="#">Bitcoin Transaction</a></h4>
+                                <ul class="about-causes list-inline clearfix">
+
+                                    <li class="causes-goal">Price: $2500</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <div>
+                                    <a class="thm-btn btn-xs" href="#">Buy now</a>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="single-service-home">
-                            <div class="content">
-                                <img src="img/bit/671475.svg" alt="">
-                                <h3>Orphans</h3>
-                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
-                                <a class="btn-details" href="service-details.html">Read More</a>
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="causes sm-col5-center mb_30">
+                            <div class="thumb">
+                                <img class="full-width" alt="" src="img/causes/service-5.png">
+
+                            </div>
+                            <div class="causes-details clearfix">
+                                <h4 class="title"><a href="#">Bitcoin Exchange</a></h4>
+                                <ul class="about-causes list-inline clearfix">
+
+                                    <li class="causes-goal">Price: $2500</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <div>
+                                    <a class="thm-btn btn-xs" href="#">Buy now</a>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="single-service-home">
-                            <div class="content">
-                                <img src="img/bit/671476.svg" alt="">
-                                <h3>Water</h3>
-                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
-                                <a class="btn-details" href="service-details.html">Read More</a>
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="causes sm-col5-center mb_30">
+                            <div class="thumb">
+                                <img class="full-width" alt="" src="img/causes/service-4.png">
+
+                            </div>
+                            <div class="causes-details clearfix">
+                                <h4 class="title"><a href="#">Bitcoin Investment</a></h4>
+                                <ul class="about-causes list-inline clearfix">
+
+                                    <li class="causes-goal">Price: $2500</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <div>
+                                    <a class="thm-btn btn-xs" href="#">Buy now</a>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="single-service-home">
-                            <div class="content">
-                                <img src="img/bit/671477.svg" alt="">
-                                <h3>Health</h3>
-                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
-                                <a class="btn-details" href="service-details.html">Read More</a>
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="causes sm-col5-center mb_30">
+                            <div class="thumb">
+                                <img class="full-width" alt="" src="img/causes/service-3.png">
+
+                            </div>
+                            <div class="causes-details clearfix">
+                                <h4 class="title"><a href="#">Bitcoin Escrow Service</a></h4>
+                                <ul class="about-causes list-inline clearfix">
+
+                                    <li class="causes-goal">Price: $2500</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <div>
+                                    <a class="thm-btn btn-xs" href="#">Buy now</a>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="single-service-home">
-                            <div class="content">
-                                <img src="img/bit/671478.svg" alt="">
-                                <h3>Hunger</h3>
-                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
-                                <a class="btn-details" href="service-details.html">Read More</a>
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="causes sm-col5-center mb_30">
+                            <div class="thumb">
+                                <img class="full-width" alt="" src="img/causes/service-2.png">
+
+                            </div>
+                            <div class="causes-details clearfix">
+                                <h4 class="title"><a href="#">Bitcoin Mining</a></h4>
+                                <ul class="about-causes list-inline clearfix">
+
+                                    <li class="causes-goal">Price: $2500</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <div>
+                                    <a class="thm-btn btn-xs" href="#">Buy now</a>
+
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="single-service-home">
-                            <div class="content">
-                                <img src="img/bit/671479.svg" alt="">
-                                <h3>Emergencies</h3>
-                                <p>There are many variations of lorem passagei of Lorem Ipsum available but the majority have </p>
-                                <a class="btn-details" href="service-details.html">Read More</a>
+                    <div class="col-sm-12 col-md-4 col-lg-4">
+                        <div class="causes sm-col5-center mb_30">
+                            <div class="thumb">
+                                <img class="full-width" alt="" src="img/causes/service-1.png">
+                            </div>
+                            <div class="causes-details clearfix">
+                                <h4 class="title"><a href="#">Bitcoin Shopping</a></h4>
+                                <ul class="about-causes list-inline clearfix">
+
+                                    <li class="causes-goal">Price: $2500</li>
+                                </ul>
+                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <div>
+                                    <a class="thm-btn btn-xs" href="#">Buy now</a>
+
+                                </div>
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
 
-
+<!--
         <section class="contact-content upcoming-event sec-padding bg-pattern pb-50">
             <div class="container">
                 <div class="row">
@@ -232,7 +292,7 @@ include_once('includes/header.php');
             </div>
         </section>
 
-
+-->
         <section class="fact-counter-wrapper sec-padding parallax-section">
             <div class="container">
                 <div class="row">
@@ -267,7 +327,7 @@ include_once('includes/header.php');
             </div>
         </section>
 
-
+<!--
         <section class="sec-padding our-team">
             <div class="container">
                 <div class="row">
@@ -460,8 +520,8 @@ include_once('includes/header.php');
             </div>
         </section>
 
-
-        <section class="sec-padding testimonials-wrapper pt-70 pb-70">
+-->
+       <!-- <section class="sec-padding testimonials-wrapper pt-70 pb-70">
             <div class="container">
                 <div class="sec-title text-center colored">
                     <h2 class="text-white">Testimonials</h2>
@@ -596,7 +656,7 @@ include_once('includes/header.php');
                 </div>
             </div>
         </section>
-
+-->
 
         <section class="blog-home sec-padding">
             <div class="container">
