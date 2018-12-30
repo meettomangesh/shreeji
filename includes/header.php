@@ -68,44 +68,7 @@
                     </div>
                     <div class="single-header-info">
 
-                        <!--<a class="thm-btn" data-toggle="modal" href="#modal-donate-now">Login</a>
-                         <div class="modal fade" id="modal-donate-now" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                            <div class="modal-dialog style-one" role="document">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                        <h4 class="modal-title" id="myModalLabel">Login</h4>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="donation-form-outer">
-                                            <form action="contact.html" method="post">
-                                                
-                                                <div class="form-portlet">
-                                                    <div class="clearfix">
-                                                        <div class="form-group">
-                                                            <div class="field-label">Email <span class="required">*</span></div>
-                                                            <input type="email" required="" placeholder="Email" value="" name="name">
-                                                        </div>
 
-                                                        <div class="form-group">
-                                                            <div class="field-label">Password <span class="required">*</span></div>
-                                                            <input type="password" required="" placeholder="Phone" value="" name="name">
-                                                        </div>
-                                                        <div class="text-left"><button class="thm-btn" type="submit">Login</button></div>
-
-                                                    </div>
-                                                </div>
-
-
-
-
-
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
 
                     </div>
                 </div>
@@ -121,7 +84,7 @@
                     <div class="nav-header">
                         <ul>
                             <li class="dropdown">
-                                <a href="index.php">Home</a>
+                                <a href="index">Home</a>
                                 <!-- <ul class="submenu">
                                     <li><a href="index.html">Home One</a></li>
                                     <li><a href="index2.html">Home Two</a></li>
@@ -129,22 +92,22 @@
                             </li>
                             <li></li>						
                             <li class="dropdown">
-                                <a href="#">Product</a>
+                                <a href="index">Product</a>
                                 <ul class="submenu">
-                                    <li><a href="service-grid.html">Laminated Tube</a></li>
-                                    <li><a href="service-list.html">Tubes Caps</a></li>
-                                    <li><a href="service-single.html">Engineering Module</a></li>
+                                    <li><a href="laminated_tubes">Laminated Tube</a></li>
+                                    <li><a href="tubes_caps">Tubes Caps</a></li>
+                                    <li><a href="engineering_module">Engineering Module</a></li>
                                 </ul>
                             </li>						
                             <li class="dropdown">
-                                <a href="#">Manufacture</a>
+                                <a href="index">Manufacture</a>
                                 <ul class="submenu">
-                                    <li><a href="events-grid.html">Tube Production</a></li>
-                                    <li><a href="events-list.html">Injuction Moduling</a></li>
+                                    <li><a href="tube_production">Tube Production</a></li>
+                                    <li><a href="injuction_moduling">Injuction Moduling</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
+                            <li><a href="about_us">About Us</a></li>
+                            <li><a href="contact_us">Contact Us</a></li>
                         </ul>
                     </div>
                     <div class="nav-footer">
