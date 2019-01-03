@@ -3579,7 +3579,7 @@ img {
     margin-top: 40px;
 }
 .featured-causes .causes-details p {
-    font-size: 13px;
+    font-size: 15px;
 }
 .featured-causes .causes-details .p-title {
     color: #344d85;
@@ -4043,6 +4043,13 @@ img {
 }
 
 .laminated_tube_header {
+    background: rgba(0, 0, 0, 0) url(../img/product/laminated_tube_header.jpg) no-repeat scroll center center / cover;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    position: relative;
+}
+
+.tube_caps_header {
     background: rgba(0, 0, 0, 0) url(../img/product/tube_caps_header.jpg) no-repeat scroll center center / cover;
     padding-bottom: 30px;
     padding-top: 30px;

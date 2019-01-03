@@ -3,7 +3,7 @@
 include_once('includes/header.php');
 ?>
 
-<section class="laminated_tube_header">
+<section class="tube_caps_header">
     <div class="container">
         <div class="row">
             <div class="col-md-12 sec-title colored text-center">
@@ -27,23 +27,27 @@ include_once('includes/header.php');
                 <div class="featured-causes mb_20 pr_15">
                     <div class="row">
                         <div class="col-lg-6 col-md-12">
-                            <div class="thumb text-center">
-                                <img class="" src="img/product/laminated_tube.jpg" alt="">
+                            <div class="thumb text-center mt_30">
+                                <img class="" src="img/product/tubes_caps.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="causes-details">
-                                <h3 class="mb-15">LAMINATE TUBES</h3>
+                                <h3 class="mb-15">Tube Caps</h3>
                                 <ul class="list-inline">
                                     <li class="text-thm"></li>
                                 </ul>
                                 <p class="p-title mb-15">
-                                    Shreeji, that started its production of laminate tubes in 1993 for the domestic market needs, has now reached a level of internationally-accepted standards and has become an approved company producing laminate tubes for world-class companies in its high-tech production lines.Our laminate tubes are being presented to the market with high quality standards passing very strict quality tests according to our modern and well-functioning quality control system. Perfektüp, having an annual capacity of 210 million laminate tubes produced by its AISA tube-making machines, offers a full range of services to its customers including different shoulder types of laminate tubes.</p>
-                                <br>
-                                 <p class="p-title mb-15">
-
-                                    Laminate tubes that provide for ease of use during their periods of consumption are among preferred packaging alternatives in many fields. 
+                                At Shreeji Enterprises, we are known for our innovative product solutions and our flexible service. We are able to economically produce both high and low order quantities, and operate with short delivery times.</p>
+                                
+                                 <p>
+                                    Most products are private brands, designed and developed in close cooperation with our customers, but we also keep a large range of standard products in stock. We offer a selection of customised caps and flip tops in any size and a rainbow of colours. Our skilled toolmakers take care of mould maintenance and build prototype moulds, always ensuring you the same high standard. 
                                 </p>
+                                
+                                 <p >
+                                 At Shreeji Enterprises, we pride ourselves on providing high quality and excellent service, which is why we are the preferred partner for our market-leading customers. 
+                                </p>
+                                
                             </div>
                         </div>
                     </div>
