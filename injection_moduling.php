@@ -3,7 +3,7 @@
 include_once('includes/header.php');
 ?>
 
-<section class="tube_production_header">
+<section class="injection_moduling_header">
     <div class="container">
         <div class="row">
             <div class="col-md-12 sec-title colored text-center">
@@ -11,7 +11,7 @@ include_once('includes/header.php');
                 <ul class="breadcumb">
                     <li><a href="index">Home</a></li>
                     <li><i class="fa fa-angle-right text-white"></i></li>
-                    <li><span class="text-white">Tube Production</span></li>
+                    <li><span class="text-white">Injection Moduling</span></li>
                 </ul>
 
             </div>
@@ -34,19 +34,28 @@ include_once('includes/header.php');
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="causes-details mb-15">
-                                <h3 class="mb-15">Tube Production</h3>
+                                <h3 class="mb-15">Injection Moduling</h3>
                                 <ul class="list-inline">
                                     <li class="text-thm"></li>
                                 </ul>
                                 <p class="p-title mb-15">
-                                    Our production facilities have high hygienic standards, with balanced air humidity and well maintained equipment.</p>
+                                    Our injection moulding department includes 15 injection moulding machines. Skilled toolmakers design and build moulds according to customer requirements.</p>
                                 <br>
                                 <p >
 
-                                    Modern machinery generate substantial product quality and range, as well as production capacity. We produce laminate tubes from 19 to 50 diameters. Our tube machines are flexible to run non foil laminate Plastic Barrier Laminate (PBL)  and Aluminium Barrier Laminate (ABL) in different qualities and diameters. 
+                                    The injection moulding product range includes: 
                                 </p>
                             </div>
-                            <ul><li><span style="font-size:12.0pt">ABL </span><span style="font-size:12.0pt">&amp; PBL Tubes Ø19 to Ø50mm</span></li><li><span style="font-size:12.0pt">2 production lines</span></li><li><span style="font-size:12.0pt">Annual capacity + 50.000.000 </span><span style="font-size:12.0pt">tubes</span></li><li><span style="font-size:12.0pt">Printing, up to 8 </span><span style="font-size:12.0pt">colors</span></li><li><span style="font-size:12.0pt">Quality control</span></li></ul>
+                            <ul>
+                                <li><span style="font-size:12.0pt">Tube caps</span></li>
+                                <li><span style="font-size:12.0pt">Flip top caps</span></li>
+                                <li><span style="font-size:12.0pt">Capsules</span></li>
+                                <li><span style="font-size:12.0pt">Lids </span><span style="font-size:12.0pt">tubes</span></li>
+                                <li><span style="font-size:12.0pt">Small to medium-sized containers</span><span style="font-size:12.0pt">colors</span></li>
+                                <li><span style="font-size:12.0pt">Spice grinders</span></li>
+                                <li><span style="font-size:12.0pt">Technical products for Medical and Electronic industry</span></li>
+   
+                            </ul>
                         </div>
                     </div>
                 </div>

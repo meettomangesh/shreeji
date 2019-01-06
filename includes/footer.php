@@ -1,3 +1,54 @@
+<section class="p_20">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="clients-carousel owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-1.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-2.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-3.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-4.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-5.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-1.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-2.png" alt="">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-box">
+                            <img src="img/clients/logo-3.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <footer class="footer sec-padding">
     <div class="container">
         <div class="row">
@@ -34,9 +85,9 @@
                             </ul>
                         </li>
 
-                                <li><a href="tube_production">Tube Production</a></li>
-                                <li><a href="injuction_moduling">Injuction Moduling</a></li>
-                         
+                        <li><a href="tube_production">Tube Production</a></li>
+                        <li><a href="injection_moduling">Injuction Moduling</a></li>
+
                         <li><a href="about_us">About Us</a></li>
                         <li><a href="contact_us">Contact Us</a></li>
 

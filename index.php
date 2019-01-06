@@ -121,14 +121,14 @@ include_once('includes/header.php');
 
                             </div>
                             <div class="causes-details clearfix">
-                                <h4 class="title"><a href="injuction_moduling">Injuction Moduling</a></h4>
+                                <h4 class="title"><a href="injection_moduling">Injuction Moduling</a></h4>
                                 <ul class="about-causes list-inline clearfix">
 
                                     
                                 </ul>
                                 <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
                                 <div>
-                                    <a class="thm-btn btn-xs" href="injuction_moduling">View</a>
+                                    <a class="thm-btn btn-xs" href="injection_moduling">View</a>
 
                                 </div>
                             </div>
@@ -174,57 +174,6 @@ include_once('includes/header.php');
         </section>
 
 
-
-        <section class="p_20">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="clients-carousel owl-carousel owl-theme">
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-4.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-5.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="img-box">
-                                    <img src="img/clients/logo-3.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
 
 <?php
 include_once('includes/footer.php');

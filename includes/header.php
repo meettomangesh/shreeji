@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Shreeji Pack AS</title>
+        <title>Shreeji Enterprises</title>
         <link type="image/x-icon" href="img/hatch_img/favicon.png" rel="icon">
 
         <!-- responsive meta -->
@@ -103,7 +103,7 @@
                                 <a href="index">Manufacture</a>
                                 <ul class="submenu">
                                     <li><a href="tube_production">Tube Production</a></li>
-                                    <li><a href="injuction_moduling">Injuction Moduling</a></li>
+                                    <li><a href="injection_moduling">Injuction Moduling</a></li>
                                 </ul>
                             </li>
                             <li><a href="about_us">About Us</a></li>

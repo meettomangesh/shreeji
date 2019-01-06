@@ -30,6 +30,7 @@ include_once('includes/header.php');
                             <div class="thumb text-center">
                                 <img class="" src="img/product/laminated_tube.jpg" alt="">
                             </div>
+                            
                         </div>
                         <div class="col-lg-6 col-md-12">
                             <div class="causes-details">
