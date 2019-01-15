@@ -71,7 +71,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    color: #9C9C9C;
+    /*color: #9C9C9C;*/
+	color: rgba(0,0,0,.7);
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;	
@@ -153,7 +154,8 @@ img {
 }
 .sec-title p {
     font-size: 16px;
-    color: #747474;
+   /* color: #747474;*/
+   color: rgba(0,0,0,.7);
     margin: 0;
     margin-bottom: 20px;
 }
@@ -1542,7 +1544,8 @@ img {
 .faq-home .accrodion .accrodion-content p {
     margin-bottom: 21px;
     font-size: 14px;
-    color: #9C9C9C;
+    /*color: #9C9C9C;*/
+	    color: rgba(0,0,0,.7);
     line-height: 26px;
 }
 .faq-home .accrodion .accrodion-content p:last-child {
@@ -2310,13 +2313,7 @@ img {
 
 /* 21 contact form validation styles */
 
-.contact-form label.error {
-    display: none !important;
-}
-.contact-form input.error,
-.contact-form textarea.error {
-    background: rgba(255,0,0,.2) !important;
-}
+
 
 
 /* 22 .home-appointment-form styles */
@@ -2644,7 +2641,13 @@ img {
     outline: none;
     padding-left: 20px;
     line-height: 58px;
-    margin-bottom: 20px;
+    margin-bottom:20px;
+}
+.has-error textarea,
+.has-error input 
+{
+	margin-bottom: 5px !important;
+	
 }
 .contact-content .contact-form textarea {
     height: 221px;
@@ -2685,7 +2688,8 @@ img {
     margin-bottom: 10px;
 }
 .contact-content .contact-info li .content-box p {
-    color: #9C9C9C;
+    /*color: #9C9C9C;*/
+	color: rgba(0,0,0,.7);
     line-height: 26px;
 }
 
@@ -4066,4 +4070,24 @@ img {
     padding-bottom: 30px;
     padding-top: 30px;
     position: relative;
+}
+.featured-causes .causes-details p {
+	color: rgba(0,0,0,.7);
+}
+
+.contact-widget p {
+	    color: #FFFFFF;
+}
+
+.breadcumb li a, .footer-bottom a  {
+    color: #ab9b59;
+}
+
+.has-error .form-control {
+    border-color: #f13e64 !important;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.help-block-error {
+    color: #F3565D !important;
 }

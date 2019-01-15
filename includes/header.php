@@ -23,7 +23,7 @@
             <div class="container">
 
                 <div class="left-text pull-left">
-                    <p><span>Support Us :</span> companyname@mail.com</p>
+                    <p><span>Support Us :</span> support@shreejienterprises.com</p>
                 </div> <!-- /.left-text -->
 
                 <div class="social-icons pull-right">
@@ -53,7 +53,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <p>companyname@mail.com</p>
+                            <p>support@shreejienterprises.com</p>
                         </div>
                     </div>
                     <div class="single-header-info">
@@ -63,7 +63,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <p><b>(732) 803-010-03</b></p>
+                            <p><b>(+91) 96731 19250</b></p>
                         </div>
                     </div>
                     <div class="single-header-info">

@@ -58,9 +58,9 @@
                         <img src="img/hatch_img/logo_transparent.png" alt="Awesome Image"/>
                     </a>
                     <ul class="contact">
-                        <li><i class="fa fa-map-marker"></i> <span>60 Grant Ave. Carteret NJ 0708</span></li>
-                        <li><i class="fa fa-phone"></i> <span>(880) 1723801729</span></li>
-                        <li><i class="fa fa-envelope-o"></i> <span>example@gmail.com</span></li>
+                        <li><i class="fa fa-map-marker"></i> <span>C-63, MIDC, SUPA, Aehed nagar,<br> pune nagar road,Pune, Maharashtra, 411011, India</span></li>
+                        <li><i class="fa fa-phone"></i> <span>(+91) 96731 19250</span></li>
+                        <li><i class="fa fa-envelope-o"></i> <span>support@shreejienterprises.com</span></li>
                     </ul>
                     <ul class="social">
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -97,8 +97,8 @@
 
             <div class="col-md-4 col-sm-6">
                 <div class="footer-widget contact-widget">
-                    <h3 class="title">Contact Form</h3>
-                    <p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
+                    <h3 class="title">Contact Us</h3>
+                    <p>We Are Here To Help You! Tell us what you need </p>
                     <form id="footer-cf" class="contact-form" action="inc/sendemail.php" novalidate="novalidate">
                         <input type="text" placeholder="Email Address" name="email">
                         <button type="submit">Subscribe</button>
@@ -112,7 +112,7 @@
 
 <section class="footer-bottom">
     <div class="container text-center">
-        <p>©<?php echo date("Y"); ?> All Rights Reserved. <a href="index.php">Shreeji</a></p>
+        <p>©<?php echo date("Y"); ?> All Rights Reserved. <a href="index.php">Shreeji Enterprises</a></p>
     </div>
 </section>
 
@@ -130,7 +130,9 @@
 <!-- validate -->
 <script src="js/jquery-parallax.js"></script>
 <!-- validate -->
-<script src="js/validate.js"></script>
+<script src="js/siteobj.js"></script>
+<script src="js/validation.js"></script>
+<script src="js/jquery.validate.min.js"></script>
 <!-- mixit up -->
 <script src="js/jquery.mixitup.min.js"></script>
 <!-- fancybox -->

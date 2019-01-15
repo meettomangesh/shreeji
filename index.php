@@ -30,15 +30,15 @@ include_once('includes/header.php');
         <section class="home-serivce sec-padding pb_60">
             <div class="container">
                 <div class="sec-title text-center colored">
-                    <h2>Our Products</h2>
-                    <p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+                    <h2>Explore us</h2>
+                    <p>Established in 2008, Shreeji Enterprises has made a name for itself in the list of top suppliers of Machineries, in India. The supplier company is located in Pune, Maharashtra and is one of the leading sellers of listed products.<br>Shreeji Enterprises is listed in Trade India's list of verified sellers offering supreme quality of LAMI TUBE .</p>
                     <span class="decor"><span class="inner"></span></span>
                 </div>
                 <div class="row causes-style piechart-style">
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="causes sm-col5-center mb_30">
                             <div class="thumb">
-                                <img class="full-width" alt="" src="img/causes/service-6.png">
+                                <img class="full-width" alt="" src="img/product/home/laminated_tubes.jpg">
 
                             </div>
                             <div class="causes-details clearfix">
@@ -58,7 +58,7 @@ include_once('includes/header.php');
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="causes sm-col5-center mb_30">
                             <div class="thumb">
-                                <img class="full-width" alt="" src="img/causes/service-5.png">
+                                <img class="full-width" alt="" src="img/product/home/tube_caps.jpg">
 
                             </div>
                             <div class="causes-details clearfix">
@@ -78,11 +78,11 @@ include_once('includes/header.php');
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="causes sm-col5-center mb_30">
                             <div class="thumb">
-                                <img class="full-width" alt="" src="img/causes/service-4.png">
+                                <img class="full-width" alt="" src="img/product/home/enginering_module.jpg">
 
                             </div>
                             <div class="causes-details clearfix">
-                                <h4 class="title"><a href="engineering_module">Engineering Moduling</a></h4>
+                                <h4 class="title"><a href="engineering_module">Engineering Module</a></h4>
                                 <ul class="about-causes list-inline clearfix">
                                     
                                 </ul>
@@ -97,7 +97,7 @@ include_once('includes/header.php');
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="causes sm-col5-center mb_30">
                             <div class="thumb">
-                                <img class="full-width" alt="" src="img/causes/service-3.png">
+                                <img class="full-width" alt="" src="img/product/home/tube_production.jpg">
 
                             </div>
                             <div class="causes-details clearfix">
@@ -117,7 +117,7 @@ include_once('includes/header.php');
                     <div class="col-sm-12 col-md-4 col-lg-4">
                         <div class="causes sm-col5-center mb_30">
                             <div class="thumb">
-                                <img class="full-width" alt="" src="img/causes/service-2.png">
+                                <img class="full-width" alt="" src="img/product/home/injection_moduling.jpg">
 
                             </div>
                             <div class="causes-details clearfix">
@@ -143,7 +143,7 @@ include_once('includes/header.php');
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 md-text-center">
-                        <h2>We are served since <b>35 years</b> <br>to helpless people with trust and <br>we are happy</h2>
+                        <h2>We are served since <b>11 years</b> <br>to helpless people with trust and <br>we are happy</h2>
                         <a href="index" class="thm-btn inverse mb-md-40">Be a part of us</a>
                     </div>
                     <div class="col-lg-6 col-md-12 md-text-center">

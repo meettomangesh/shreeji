@@ -19,21 +19,28 @@ include_once('includes/header.php');
         <section class="contact-content sec-padding">
             <div class="container">
                 <div class="sec-title text-center">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since the 1500s, when an unknownto </p>
+                   <!-- <p>We Are Here To Help You! <br> Tell us what you need </p> -->
                 </div>
                 <div class="row">
                     <div class="col-md-8">
                         <h2>Contact</h2>
-                        <form action="inc/sendemail.php" class="contact-form row" id="contact-page-contact-form">
+                        <form action="processAjax.php" class="contact-form row" method="post" id="contact-page-contact-form">
                             <div class="col-md-6">
-                                <input type="text" name="name" placeholder="Name">
-                                <input type="text" name="email" placeholder="Email">
-                                <input type="text" name="phone" placeholder="Phone">
-
+                                <div class='form-group'>
+									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter name." data-rule-minlength="2" data-rule-maxlength="100" data-msg-maxlength="Name should not contain more than {0} characters." data-msg-minlength="Name should contain at least {0} characters."   name="name" placeholder="Name">
+                                </div>
+								<div class='form-group'>
+									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter email address." name="email" placeholder="Email">
+                                 </div>
+								<div class='form-group'>
+									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter phone number." name="phone" placeholder="Phone">
+								</div>
                             </div>
                             <div class="col-md-6">
-                                <textarea name="message" placeholder="Message" cols="30" rows="10"></textarea>
-                            </div>
+								<div class='form-group'>
+									<textarea class="form-control" name="message"  data-rule-required="true" data-msg-required="Please enter the message." placeholder="Message" cols="30" rows="10"></textarea>
+								</div>
+							</div>
                             <div class="col-md-12"><button class="thm-btn mb-sm-60" type="submit">Send</button></div>
                         </form>
                     </div>
@@ -48,7 +55,8 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="content-box">
                                     <h4>Address</h4>
-                                    <p>Mirpur New Bazar Road, Block-c, <br>Uttara, Dhaka-1210</p>
+                                    <p>C-63, MIDC, SUPA, Aehed nagar, pune nagar road,
+									<br>Pune, Maharashtra, 411011, India</p>
                                 </div>
                             </li>
                             <li>
@@ -70,7 +78,7 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="content-box">
                                     <h4>Email</h4>
-                                    <p>info@somecompanyname.com, otheremail@gmail.com</p>
+                                    <p>support@shreejienterprises.com</p>
                                 </div>
                             </li>
                         </ul>
@@ -82,3 +90,13 @@ include_once('includes/header.php');
 <?php
 include_once('includes/footer.php');
 ?>
+
+<script src="js/contact_us.js" > </script>
+
+<script>
+    $(document).ready(function () {
+        siteObjJs.admin.contactUsJs.init();
+        
+    });
+</script>
+
