@@ -1,16 +1,18 @@
-siteObjJs.admin.contactUsJs = function () {
+siteObjJs.admin.commonJs = function () {
 
 // Initialize all the page-specific event listeners here.
 
     var initializeListener = function () {
-        
+        console.log('I am inside common js initializeListener');
     };
 
    
     var handleAjaxRequest = function () {
         var formElement = $(this.currentForm); // Retrive form from DOM and convert it to jquery object
+		
         var actionUrl = formElement.attr("action");
         var formId = formElement.attr("id");
+		console.log(formId);
         var actionType = formElement.attr("method");
         var formData = formElement.serialize();
         var icon = "check";
@@ -27,8 +29,7 @@ siteObjJs.admin.contactUsJs = function () {
                     data: formData,
                     success: function (data)
                     {
-                        console.log(data);
-						data=JSON.parse(data);
+                        data=JSON.parse(data);
 						var message = '';
 						if(data.status=='success'){
 							message = '<div class="alert alert-success"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a><span>'+data.message+"</span></div>";
@@ -55,6 +56,7 @@ siteObjJs.admin.contactUsJs = function () {
                         $.each(errors, function (key, value) {
                             errorsHtml += value[0] + '<br />';
                         });
+						$('#'+formId)[0].reset();
                         //alert(errorsHtml, "Error " + jqXhr.status + ': ' + errorThrown);
                        /* Metronic.alert({
                             type: 'danger',
@@ -64,6 +66,7 @@ siteObjJs.admin.contactUsJs = function () {
                             closeInSeconds: siteObjJs.admin.commonJs.constants.alertCloseSec
                         });*/
                     }
+					
                 }
         );
     }
@@ -74,7 +77,7 @@ siteObjJs.admin.contactUsJs = function () {
         init: function () {
 			
             initializeListener();
-            siteObjJs.validation.formValidateInit('#contact-page-contact-form', handleAjaxRequest);
+            siteObjJs.validation.formValidateInit('#contact-form', handleAjaxRequest);
 
         }
         

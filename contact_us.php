@@ -24,16 +24,17 @@ include_once('includes/header.php');
                 <div class="row">
                     <div class="col-md-8">
                         <h2>Contact</h2>
+						<span class='alert_message' id="contact-page-contact-form_message"></span>
                         <form action="processAjax.php" class="contact-form row" method="post" id="contact-page-contact-form">
                             <div class="col-md-6">
                                 <div class='form-group'>
 									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter name." data-rule-minlength="2" data-rule-maxlength="100" data-msg-maxlength="Name should not contain more than {0} characters." data-msg-minlength="Name should contain at least {0} characters."   name="name" placeholder="Name">
                                 </div>
 								<div class='form-group'>
-									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter email address." name="email" placeholder="Email">
+									<input class="form-control" type="email" data-rule-required="true" data-msg-required="Please enter email address." name="email_address" placeholder="Email">
                                  </div>
 								<div class='form-group'>
-									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter phone number." name="phone" placeholder="Phone">
+									<input class="form-control" type="text" data-rule-required="true" data-msg-required="Please enter phone number." name="contact_number" placeholder="Phone">
 								</div>
                             </div>
                             <div class="col-md-6">
@@ -41,8 +42,10 @@ include_once('includes/header.php');
 									<textarea class="form-control" name="message"  data-rule-required="true" data-msg-required="Please enter the message." placeholder="Message" cols="30" rows="10"></textarea>
 								</div>
 							</div>
+							<input type="hidden" name="is_for_subscribe" value="0">
                             <div class="col-md-12"><button class="thm-btn mb-sm-60" type="submit">Send</button></div>
                         </form>
+						
                     </div>
                     <div class="col-md-4">
                         <h2>Address</h2>

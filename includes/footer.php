@@ -99,10 +99,18 @@
                 <div class="footer-widget contact-widget">
                     <h3 class="title">Contact Us</h3>
                     <p>We Are Here To Help You! Tell us what you need </p>
-                    <form id="footer-cf" class="contact-form" action="inc/sendemail.php" novalidate="novalidate">
-                        <input type="text" placeholder="Email Address" name="email">
+					<span class='alert_message' id="contact-form_message"></span>
+                    <form action="processAjax.php" method="post" id="contact-form"  novalidate="novalidate">
+                        <div class='form-group'>
+							<input class="form-control" type="email" data-rule-required="true" data-msg-required="Please enter email address." name="email_address" placeholder="Email">
+							<input type="hidden" name="name" value="">
+							<input type="hidden" name="contact_number" value="">
+							<input type="hidden" name="message" value="">
+							<input type="hidden" name="is_for_subscribe" value="1">
+						</div>
                         <button type="submit">Subscribe</button>
                     </form>
+					
                 </div>
             </div> 
         </div>
@@ -160,8 +168,19 @@
 
 
 <!-- thm custom script -->
+
 <script src="js/custom.js"></script>
-
-
+<script src="js/common.js"></script>
+<script>
+    $(document).ready(function () {
+        siteObjJs.admin.commonJs.init();
+        
+    });
+	 $(document).ready(function () {
+        $(".alert_message").delay(3000).fadeOut("slow", function () {
+            $(".alert_message").html('');
+        });
+    });
+</script>
 </body>
 </html>
