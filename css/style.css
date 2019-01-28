@@ -1564,7 +1564,7 @@ img {
 
 .fact-counter-wrapper {
     position: relative;
-    background: url(../img/resources/fact-counter-bg.jpg) center center no-repeat;
+    background: url(../img/product/tube_production_header.jpg) center center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -4092,3 +4092,6 @@ img {
     color: #F3565D !important;
 }
 
+.gallery-section .image-box {
+	width:33.33%;
+}

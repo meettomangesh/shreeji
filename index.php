@@ -47,9 +47,9 @@ include_once('includes/header.php');
 
                                    
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <p>Shreeji Enterprises, that started its production of laminate tubes in 1993 for the domestic market needs, has now reached a level of internationally-accepted standards ...</p>
                                 <div>
-                                    <a class="thm-btn btn-xs" href="laminated_tubes">View</a>
+                                    <a class="thm-btn btn-xs" href="laminated_tubes">View More</a>
 
                                 </div>
                             </div>
@@ -67,9 +67,9 @@ include_once('includes/header.php');
 
                                    
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <p>At Shreeji Enterprises, we are known for our innovative product solutions and our flexible service.We are able to economically produce both high and low order quantities ...</p>
                                 <div>
-                                    <a class="thm-btn btn-xs" href="tubes_caps">View</a>
+                                    <a class="thm-btn btn-xs" href="tubes_caps">View More</a>
 
                                 </div>
                             </div>
@@ -86,9 +86,9 @@ include_once('includes/header.php');
                                 <ul class="about-causes list-inline clearfix">
                                     
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <p>Our production facilities have high hygienic standards, with balanced air humidity and well maintained equipment. Modern machinery generate substantial product quality...</p>
                                 <div>
-                                    <a class="thm-btn btn-xs" href="engineering_module">View</a>
+                                    <a class="thm-btn btn-xs" href="engineering_module">View More</a>
 
                                 </div>
                             </div>
@@ -106,9 +106,9 @@ include_once('includes/header.php');
 
                                     
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <p>Our production facilities have high hygienic standards, with balanced air humidity and well maintained equipment. Modern machinery generate substantial product quality...</p>
                                 <div>
-                                    <a class="thm-btn btn-xs" href="tube_production">View</a>
+                                    <a class="thm-btn btn-xs" href="tube_production">View More</a>
 
                                 </div>
                             </div>
@@ -126,9 +126,9 @@ include_once('includes/header.php');
 
                                     
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+                                <p>Our injection moulding department includes 15 injection moulding machines. Skilled toolmakers design and build moulds according to customer requirements.</p>
                                 <div>
-                                    <a class="thm-btn btn-xs" href="injection_moduling">View</a>
+                                    <a class="thm-btn btn-xs" href="injection_moduling">View More</a>
 
                                 </div>
                             </div>

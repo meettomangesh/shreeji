@@ -77,9 +77,9 @@ include_once('includes/header.php');
                         </div>
                         <div class="accrodion-content">
                             <p class="p-title mb-15 h3"><b>Production</b></p>
-                            <p>Our injection moulding and laminate tube-making processes are clean processes with no direct influence on the environment. Electrical energy is sourced from the cleanest energy source of the world, the famous Norwegian waterfalls, and the cooling process is a closed circuit.</p>
+                            <p>Our injection moduling and laminate tube-making processes are clean processes with no direct influence on the environment. Electrical energy is sourced from the cleanest energy source of the world, the famous Norwegian waterfalls, and the cooling process is a closed circuit.</p>
                             <p class="p-title mb-15 h3"><b>Waste</b></p>
-                            <p>All scrap materials from production are collected, sorted and if possible recycled. 100% of scrap plastic granulate from the injection moulding prosess are grinded on site and re-used in production. We have also established special waste routines for printing inks and plastic tubes are bundled and compressed to reduce volume in transport.   </p>
+                            <p>All scrap materials from production are collected, sorted and if possible recycled. 100% of scrap plastic granulate from the injection moduling prosess are grinded on site and re-used in production. We have also established special waste routines for printing inks and plastic tubes are bundled and compressed to reduce volume in transport.   </p>
 
                         </div>
                     </div>
