@@ -87,7 +87,7 @@ include_once('includes/header.php');
             </div>
 
             <div class="col-md-6 hidden-md hidden-sm hidden-xs">
-                <img class="full-width" src="img/resources/about-1.jpg" alt="Awesome Image"/>
+                <img class="full-width" src="img/showcase1.png" alt="Awesome Image"/>
             </div>
         </div>
     </div>

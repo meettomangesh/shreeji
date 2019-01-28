@@ -70,7 +70,7 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="content-box">
                                     <h4>Phone</h4>
-                                    <p>(732) 803-01 03, (732) 806-01 04, (880)172380129</p>
+                                    <p>	(+91) 96731 19250</p>
                                 </div>
                             </li>
                             <li>
@@ -81,7 +81,8 @@ include_once('includes/header.php');
                                 </div>
                                 <div class="content-box">
                                     <h4>Email</h4>
-                                    <p>support@shreejienterprises.com</p>
+                                    <p>info@lamitubeindia.com</p>
+                                    <p>support@lamitubeindia.com</p>
                                 </div>
                             </li>
                         </ul>

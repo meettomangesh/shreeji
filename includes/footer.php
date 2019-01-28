@@ -60,7 +60,7 @@
                     <ul class="contact">
                         <li><i class="fa fa-map-marker"></i> <span>C-63, MIDC, SUPA, Aehed nagar,<br> pune nagar road,Pune, Maharashtra, 411011, India</span></li>
                         <li><i class="fa fa-phone"></i> <span>(+91) 96731 19250</span></li>
-                        <li><i class="fa fa-envelope-o"></i> <span>support@shreejienterprises.com</span></li>
+                        <li><i class="fa fa-envelope-o"></i> <span>info@lamitubeindia.com</span></li>
                     </ul>
                     <ul class="social">
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>

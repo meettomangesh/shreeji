@@ -23,7 +23,7 @@
             <div class="container">
 
                 <div class="left-text pull-left">
-                    <p><span>Support Us :</span> support@shreejienterprises.com</p>
+                    <p><span>Support Us :</span> info@lamitubeindia.com</p>
                 </div> <!-- /.left-text -->
 
                 <div class="social-icons pull-right">
@@ -53,7 +53,7 @@
                             </div>
                         </div>
                         <div class="content">
-                            <p>support@shreejienterprises.com</p>
+                            <p>info@lamitubeindia.com</p>
                         </div>
                     </div>
                     <div class="single-header-info">
