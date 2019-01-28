@@ -29,7 +29,7 @@ include_once('includes/dbconnect.php');
 
 // More headers
             $headers .= 'From: <'.$fromEmail.'>' . "\r\n";
-            $headers .= 'Cc: '.$fromEmail.'' . "\r\n";
+            //$headers .= 'Cc: '.$fromEmail.'' . "\r\n";
 
             return mail($toEmail, $subject, $body, $headers);
             
@@ -50,7 +50,7 @@ if(!empty($_POST)){
 <td style="border-top: 3px solid #a1c13a; height: 3px;" align="center" valign="top">&nbsp;</td>
 </tr>
 <tr>
-<td style="padding: 10px 0;" align="center" valign="middle" width="90"><a href="http://www.lamitubeindia.com/" target="_blank" rel="noopener"> <img class="CToWUd" src="img/hatch_img/logo_transparent.png" alt="Shreeji Enterprises" height="80" /> </a></td>
+<td style="padding: 10px 0;" align="center" valign="middle" width="90"><a href="'.BASE_URL.'" target="_blank" rel="noopener"> <img class="CToWUd" src="'.BASE_URL.'img/hatch_img/logo_transparent.png" alt="Shreeji Enterprises" height="80" /> </a></td>
 </tr>
 <tr>
 <td style="border-bottom: 1px solid #ececec; height: 1px;" align="center" valign="top">&nbsp;</td>
@@ -117,6 +117,8 @@ $message .='</table></td>
 </table>';
   
 	if(mysqli_query($conn, $sql)){
+		sendEmail($fromEmail = 'support@lamitubeindia.com', $fromEmailName = 'Support', 'info@lamitubeindia.com', 'Info', 'Contact ticket received.', $message);
+  
 		$response['status'] = 'success';
 		$response['message'] = 'The message has been submitted successfully.';
 	} else {
