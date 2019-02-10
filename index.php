@@ -4,7 +4,6 @@ include_once('includes/header.php');
         <div class="slider1-area overlay-default index1">
             <div class="bend niceties preview-1">
                 <div id="ensign-nivoslider-3" class="slides nivoSlider">   
-                    <img src="img/slides/fronter.jpg" alt="slider" title="#slider-direction-1">
                     <img src="img/slides/3.jpg" alt="slider" title="#slider-direction-3">
                     <img src="img/slides/4.jpg" alt="slider" title="#slider-direction-4">
                     <img src="img/slides/5.jpg" alt="slider" title="#slider-direction-5">

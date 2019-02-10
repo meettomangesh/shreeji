@@ -96,7 +96,7 @@
                                 <ul class="submenu">
                                     <li><a href="laminated_tubes">Laminated Tube</a></li>
                                     <li><a href="tubes_caps">Tubes Caps</a></li>
-                                    <li><a href="engineering_module">Engineering Module</a></li>
+                                    <li><a href="engineering_module">Production Work & Engineering Module</a></li>
                                 </ul>
                             </li>						
                             <li class="dropdown">
