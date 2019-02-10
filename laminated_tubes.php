@@ -74,32 +74,32 @@ include_once('includes/header.php');
 	            <!--Image Box-->
 	            <div class="image-box">
 	                <div class="inner-box">
-	                    <figure class="image"><a href="img/product/home/tube_caps.jpg" class="lightbox-image"><img src="img/product/home/tube_caps.jpg" alt=""></a></figure>
-	                    <a href="img/product/home/tube_caps.jpg" class="lightbox-image btn-zoom" title="Pharmatecules"><span class="icon fa fa-dot-circle-o"></span></a>
+	                    <figure class="image"><a href="img/product/laminated_tube/pharmatical.jpg" class="lightbox-image"><img src="img/product/laminated_tube/pharmatical.jpg" alt=""></a></figure>
+	                    <a href="img/product/laminated_tube/pharmatical.jpg" class="lightbox-image btn-zoom" title="Pharmatical"><span class="icon fa fa-dot-circle-o"></span></a>
 	                </div>
 	            </div>
 	            
 				<!--Image Box-->
 	            <div class="image-box">
 	                <div class="inner-box">
-	                    <figure class="image"><a href="img/product/home/enginering_module.jpg" class="lightbox-image"><img src="img/product/home/enginering_module.jpg" alt=""></a></figure>
-	                    <a href="img/product/home/enginering_module.jpg" class="lightbox-image btn-zoom" title="Beauty"><span class="icon fa fa-dot-circle-o"></span></a>
+	                    <figure class="image"><a href="img/product/laminated_tube/beauty.jpg" class="lightbox-image"><img src="img/product/laminated_tube/beauty.jpg" alt=""></a></figure>
+	                    <a href="img/product/laminated_tube/beauty.jpg" class="lightbox-image btn-zoom" title="Beauty"><span class="icon fa fa-dot-circle-o"></span></a>
 	                </div>
 	            </div>
 	             
 	            <!--Image Box-->
 	            <div class="image-box">
 	                <div class="inner-box">
-	                    <figure class="image"><a href="img/product/home/tube_production.jpg" class="lightbox-image"><img src="img/product/home/tube_production.jpg" alt=""></a></figure>
-	                    <a href="img/product/home/tube_production.jpg" class="lightbox-image btn-zoom" title="Cosmetic"><span class="icon fa fa-dot-circle-o"></span></a>
+	                    <figure class="image"><a href="img/product/laminated_tube/cosmetic.jpg" class="lightbox-image"><img src="img/product/laminated_tube/cosmetic.jpg" alt=""></a></figure>
+	                    <a href="img/product/laminated_tube/cosmetic.jpg" class="lightbox-image btn-zoom" title="Cosmetic"><span class="icon fa fa-dot-circle-o"></span></a>
 	                </div>
 	            </div>
 	            
 	            <!--Image Box-->
 	            <div class="image-box">
 	                <div class="inner-box">
-	                    <figure class="image"><a href="img/product/home/injection_moduling.jpg" class="lightbox-image"><img src="img/product/home/injection_moduling.jpg" alt=""></a></figure>
-	                    <a href="img/product/home/injection_moduling.jpg" class="lightbox-image btn-zoom" title="Personal Care"><span class="icon fa fa-dot-circle-o"></span></a>
+	                    <figure class="image"><a href="img/product/laminated_tube/personal_care.jpg" class="lightbox-image"><img src="img/product/laminated_tube/personal_care.jpg" alt=""></a></figure>
+	                    <a href="img/product/laminated_tube/personal_care.jpg" class="lightbox-image btn-zoom" title="Personal Care"><span class="icon fa fa-dot-circle-o"></span></a>
 	                </div>
 	            </div>
 	            
