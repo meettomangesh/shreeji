@@ -28,7 +28,7 @@ include_once('includes/header.php');
                     <div class="row">
                         <div class="col-lg-6 col-md-12 p_40">
                             <div class="thumb text-center">
-                                <img class="" src="img/product/tube_production.jpg" alt="">
+                                <img class="" src="img/product/tube_caps_injuction.jpg" alt="">
                             </div>
 
                         </div>
