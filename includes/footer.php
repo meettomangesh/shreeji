@@ -1,7 +1,7 @@
 <section class="p_20">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <!-- <div class="col-md-12">
                 <div class="clients-carousel owl-carousel owl-theme">
                     <div class="item">
                         <div class="img-box">
@@ -44,7 +44,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
