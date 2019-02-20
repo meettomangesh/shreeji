@@ -65,7 +65,7 @@ include_once('includes/header.php');
     <div class="container">
         <div class="sec-title text-center colored">
             <h2>Explore us</h2>
-            <p>Established in 2008, Shreeji Enterprises has made a name for itself in the list of top suppliers of Machineries, in India. The supplier company is located in Pune, Maharashtra and is one of the leading sellers of listed products.<br>Shreeji Enterprises is listed in Trade India's list of verified sellers offering supreme quality of LAMI TUBE .</p>
+            <p>Shreeji Enterprises is one of the top lami tube manufacturer in India. Company is located in Pune, Maharashtra. Having integrated production facility and R & D team. We strive to provide techno-packaging solutions for your products. We continously work for developing packaging products to simplify the packaging needs & solutions to yours complex packaging needs. </p>
             <span class="decor"><span class="inner"></span></span>
         </div>
         <div class="row causes-style piechart-style">
