@@ -39,7 +39,7 @@ include_once('includes/header.php');
                                     <li class="text-thm"></li>
                                 </ul>
                                 <p class="p-title mb-15">
-                                    Our injection moulding department includes 15 injection moulding machines. Skilled toolmakers design and build moulds according to customer requirements.</p>
+                                    Our injection moulding department have vertical as well as horizontal injection moulding machines. Skilled toolmakers design and build moulds according to customer requirements.</p>
                                 <br>
                                 <p >
 
@@ -48,11 +48,7 @@ include_once('includes/header.php');
                             </div>
                             <ul>
                                 <li><span style="font-size:12.0pt">Tube caps</span></li>
-                                <li><span style="font-size:12.0pt">Flip top caps</span></li>
-                                <li><span style="font-size:12.0pt">Capsules</span></li>
-                                <li><span style="font-size:12.0pt">Lids </span><span style="font-size:12.0pt">tubes</span></li>
-                                <li><span style="font-size:12.0pt">Small to medium-sized containers</span><span style="font-size:12.0pt">colors</span></li>
-                                <li><span style="font-size:12.0pt">Spice grinders</span></li>
+                                <li><span style="font-size:12.0pt">Measuring caps</span></li>
                                 <li><span style="font-size:12.0pt">Technical products for Medical and Electronic industry</span></li>
    
                             </ul>

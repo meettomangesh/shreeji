@@ -46,9 +46,8 @@ include_once('includes/header.php');
                             <p class="p-title mb-15 h3"><b>Mission</b></p>
                             <p>To produce and develop special design solutions for the customers and contribute to their success.</p>
                             <p class="p-title mb-15 h3"><b>Vision</b></p>
-                            <p>Shreeji's vision is to be the preferred supplier of laminate tubes, caps, containers and technical products to small and medium sized outlets in Europe, by offering a high level of production quality, production flexibility and service.</p>
-                            <p>We like to think that our customers experience our service as outstanding. Norway Pack shows a genuine interest to serve, and will make all efforts possible to fulfill any requirement by our customers. As a customer, you will find that your "close to market" position is made a lot easier through our efforts to comply with sudden rising or changing needs in your market.</p>
-
+                            <p>Shreeji's vision is to be the preferred supplier of laminate tubes, caps and technical products to across the sector in India & for export, by offering a high level of production quality, production flexibility and service.</p>
+                           
                         </div>
                     </div>
                     <div class="accrodion ">
@@ -61,12 +60,12 @@ include_once('includes/header.php');
                             </h4>
                         </div>
                         <div class="accrodion-content">
-                            <p>Starting from the selection of raw materials until the arrival of our tubes to the customers’ production lines, quality and customer satisfaction are always our primary concerns. In every stage of this process, product quality is kept under control with state of the art technology in accordance to the global standards. To achieve the required level of perfection, all of our lines are equipped with camera control systems, leak detecting units, fully automatic packing machines as well as computer-aided systems for statistical process control.</p>
+                            <p>Starting from the selection of raw materials until the arrival of our tubes to the customers’ production lines, quality and customer satisfaction are always our primary concerns. In every stage of this process, product quality is kept under control with state of the art technology in accordance to the global standards. </p>
                             <p>Our production environment is fully compliant with GMP regulations with product liability as the basis of our quality.</p>
-                            <p>Like the quality of our products, Quality of Service is also under constant observation and the entire process is always being improved with optimization management methods like Lean Six Sigma which includes Green or White Belt projects.</p>
+                            <p>Like the quality of our products, Quality of Service is also under constant observation and the entire process is always being improved with optimization management methods.</p>
                         </div>
                     </div>
-                    <div class="accrodion ">
+					<!-- <div class="accrodion ">
                         <div class="accrodion-title">
                             <h4>
                                 <span class="decor">
@@ -82,7 +81,7 @@ include_once('includes/header.php');
                             <p>All scrap materials from production are collected, sorted and if possible recycled. 100% of scrap plastic granulate from the injection moduling prosess are grinded on site and re-used in production. We have also established special waste routines for printing inks and plastic tubes are bundled and compressed to reduce volume in transport.   </p>
 
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 

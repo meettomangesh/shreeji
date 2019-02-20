@@ -90,7 +90,7 @@ include_once('includes/header.php');
                             <a href="index">Manufacture</a>
                             <ul>
                                 <li><a href="tube_production">Tube Production</a></li>
-                                <li><a href="injection_moduling">Injuction Moduling</a></li>
+                                <li><a href="injection_moduling">Injection Moduling</a></li>
                             </ul>
                         </li>
                         <li><a href="about_us">About Us</a></li>

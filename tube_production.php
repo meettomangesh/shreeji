@@ -43,10 +43,17 @@ include_once('includes/header.php');
                                 <br>
                                 <p >
 
-                                    Modern machinery generate substantial product quality and range, as well as production capacity. We produce laminate tubes from 19 to 50 diameters. Our tube machines are flexible to run non foil laminate Plastic Barrier Laminate (PBL)  and Aluminium Barrier Laminate (ABL) in different qualities and diameters. 
+                                    Modern machinery generate substantial product quality and range as well as production capacity. We produce laminate tubes from 12.5 mm to 50 mm diameters. Our tube machines are flexible to run non foil laminate Plastic Barrier Laminate (PBL)  and Aluminium Barrier Laminate (ABL) in different qualities and diameters. 
                                 </p>
                             </div>
-                            <ul><li><span style="font-size:12.0pt">ABL </span><span style="font-size:12.0pt">&amp; PBL Tubes Ø19 to Ø50mm</span></li><li><span style="font-size:12.0pt">2 production lines</span></li><li><span style="font-size:12.0pt">Annual capacity + 50.000.000 </span><span style="font-size:12.0pt">tubes</span></li><li><span style="font-size:12.0pt">Printing, up to 8 </span><span style="font-size:12.0pt">colors</span></li><li><span style="font-size:12.0pt">Quality control</span></li></ul>
+                            <ul>
+							<li><span style="font-size:12.0pt">ABL </span><span style="font-size:12.0pt">&amp; PBL Tubes 12.5,16,19,22,25,28,35,38.5,50 mm</span></li>
+							<li><span style="font-size:12.0pt">2 production lines</span></li>
+							<li><span style="font-size:12.0pt">Annual capacity + 50.000.000 </span><span style="font-size:12.0pt">tubes.</span></li>
+							<li><span style="font-size:12.0pt">Printing, up to 8 </span><span style="font-size:12.0pt">colors.</span></li>
+							<li><span style="font-size:12.0pt">Quality control</span></li>
+							<li><span style="font-size:12.0pt">Various types of shoulder heads such as long nozzle,dome etc.</span></li>
+							</ul>
                         </div>
                     </div>
                 </div>

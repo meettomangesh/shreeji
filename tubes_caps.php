@@ -32,7 +32,7 @@ include_once('includes/header.php');
                             </div>
                             <div class="col-md-12 col-sm-12 pull-left pull-sm-none">
                                 <div class="row">
-                                    <div class="col-sm-4 p_20">
+                                    <div class="col-sm-2 p_5">
                                         <div class="single-blog-post">
                                             <div class="img-box">
                                                 <img src="img/product/tube_caps_16mm_ribbed_1.jpg" alt="">
@@ -55,7 +55,7 @@ include_once('includes/header.php');
                                             </div>
                                         </div>							
                                     </div>
-                                    <div class="col-sm-4 p_20">
+                                    <div class="col-sm-2 p_5">
                                         <div class="single-blog-post">
                                             <div class="img-box">
                                                 <img src="img/product/tube_caps_16mm_ribbed_2.jpg" alt="">
@@ -76,7 +76,7 @@ include_once('includes/header.php');
                                             </div>
                                         </div>							
                                     </div>
-                                    <div class="col-sm-4 p_20">
+                                    <div class="col-sm-2 p_5">
                                         <div class="single-blog-post">
                                             <div class="img-box">
                                                 <img src="img/product/tube_caps_19mm_smooth.jpg" alt="">
@@ -98,7 +98,7 @@ include_once('includes/header.php');
                                             </div>
                                         </div>							
                                     </div>
-					<div class="col-sm-4 p_20">
+									<div class="col-sm-2 p_5">
                                         <div class="single-blog-post">
                                             <div class="img-box">
                                                 <img src="img/product/tube_caps_19mm_ribbed.jpg" alt="">
@@ -120,7 +120,7 @@ include_once('includes/header.php');
                                             </div>
                                         </div>							
                                     </div>
-                                    <div class="col-sm-4 p_20">
+                                    <div class="col-sm-2 p_5">
                                         <div class="single-blog-post">
                                             <div class="img-box">
                                                 <img src="img/product/tube_caps_22mm_smooth.jpg" alt="">
@@ -157,13 +157,17 @@ include_once('includes/header.php');
                                     At Shreeji Enterprises, we are known for our innovative product solutions and our flexible service. We are able to economically produce both high and low order quantities, and operate with short delivery times.</p>
 
                                 <p>
-                                    Most products are private brands, designed and developed in close cooperation with our customers, but we also keep a large range of standard products in stock. We offer a selection of customised caps and flip tops in any size and a rainbow of colours. Our skilled toolmakers take care of mould maintenance and build prototype moulds, always ensuring you the same high standard. 
+                                    Most products are private brands, designed and developed in close cooperation with our customers, but we also keep a large range of standard products in stock. We offer a selection of customised caps in any size and a rainbow of colours. Our skilled toolmakers take care of mould maintenance and build prototype moulds, always ensuring you the same high standard. 
                                 </p>
 
                                 <p >
                                     At Shreeji Enterprises, we pride ourselves on providing high quality and excellent service, which is why we are the preferred partner for our market-leading customers. 
                                 </p>
 
+                            </div>
+							
+							<div class="thumb text-center mt_30 mb_60">
+                                <img src="img/caps-closures.jpg" alt="">
                             </div>
                         </div>
                     </div>

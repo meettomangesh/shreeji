@@ -332,6 +332,9 @@ img {
 .p_20 {
     padding: 20px;
 }
+.p_5 {
+    padding: 5px;
+}
 .p_30 {
     padding: 30px;
 }
@@ -358,6 +361,10 @@ img {
 }
 .pl_0 {
     padding-left: 0;
+}
+
+.pl_50 {
+    padding-left: 50px !important;
 }
 .pr_0 {
     padding-right: 0 !important;
@@ -1946,11 +1953,13 @@ img {
     font-size: 16px;
 }
 .single-blog-post .content-box .content h3 {
-    font-size: 20px;
+    /*font-size: 20px;*/
+    font-size: 18px;
     color: #000000;
     text-transform: capitalize;
     margin: 0;
-    line-height: 26px;
+    /*line-height: 26px;*/
+    line-height: 20px;
     font-weight: bold;
     margin-bottom: 12px;
 }
@@ -3590,6 +3599,13 @@ img {
     font-weight: 600;
     margin-bottom: 20px;
 }
+
+.featured-causes .causes-details .p-title span {
+    color: rgba(0,0,0,.7);
+    font-size: 15px;
+    
+} 
+
 .featured-causes .causes-details h6 {
     color: #454545;
     font-size: 13px;
@@ -4095,4 +4111,47 @@ img {
 
 .gallery-section .image-box {
 	width:33.33%;
+}
+
+.alignright {
+	float: right;
+    margin: 5px 0 20px 20px;
+    clear: both;
+
+}
+
+.causes-details table {
+	color: #333;
+    font-family: Raleway !important;
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.causes-details th{
+    background: #DFDFDF;
+    font-weight: bold;
+    text-align: center;
+}
+
+.causes-details tr:nth-child(even) td {
+    background: #F1F1F1;
+}
+
+.causes-details td, th {
+    border: 1px solid transparent;
+    line-height: 30px;
+    transition: all 0.3s;
+}
+
+.causes-details td {
+    background: #FAFAFA;
+    text-align: center;
+	padding: 10px;
+}
+
+.causes-details  td, caption {
+    font-weight: normal;
+    vertical-align: top;
+    text-align: left;
 }
