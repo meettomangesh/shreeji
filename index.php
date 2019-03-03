@@ -206,7 +206,7 @@ include_once('includes/header.php');
     </div>
 </section>
 
-<section class="fact-counter-wrapper sec-padding parallax-section">
+<!-- <section class="fact-counter-wrapper sec-padding parallax-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-12 md-text-center">
@@ -238,7 +238,7 @@ include_once('includes/header.php');
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 

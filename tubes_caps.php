@@ -46,13 +46,13 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="content-box">
+                                            <!--<div class="content-box">
                                                 
                                                 <div class="content">
-                                                    <a href=""><h3>Diameter 16 mm ribbed</h3></a>
+                                                   <a href=""><h3>Diameter 16 mm ribbed</h3></a>
                                                     
                                                 </div>
-                                            </div>
+                                            </div>-->
                                         </div>							
                                     </div>
                                     <div class="col-sm-2 p_5">
@@ -69,11 +69,11 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="content-box">
+                                            <!--<div class="content-box">
                                                 <div class="content">
                                                     <a href=""><h3>Diameter 16 mm ribbed</h3></a>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>							
                                     </div>
                                     <div class="col-sm-2 p_5">
@@ -90,12 +90,12 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="content-box">
+                                            <!-- <div class="content-box">
 
                                                 <div class="content">
                                                     <a href=""><h3>Diameter 19 mm smooth</h3></a>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>							
                                     </div>
 									<div class="col-sm-2 p_5">
@@ -112,12 +112,12 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="content-box">
+                                            <!-- <div class="content-box">
 
                                                 <div class="content">
                                                     <a href=""><h3>Diameter 19 mm ribbed</h3></a>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>							
                                     </div>
                                     <div class="col-sm-2 p_5">
@@ -134,12 +134,12 @@ include_once('includes/header.php');
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="content-box">
+                                            <!-- <div class="content-box">
 
                                                 <div class="content">
                                                     <a href=""><h3>Diameter 22 mm Smooth</h3></a>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>							
                                     </div>
                                 </div>
