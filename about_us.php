@@ -31,6 +31,8 @@ include_once('includes/header.php');
                         <span class="inner"></span>
                     </span>
                 </div>
+				<p class="p-title mb-15" style="font-weight:600;">Our customers are our main assets.</p>
+				<p class="p-title mb-15" style="font-weight:600; margin-bottom:15px;">We thank our customers everyday for their trust by endeavouring to develop, manufacture & print tubes for their success.</p>
                 <div class="accrodion-grp" data-grp-name="faq-accrodion">
                     <div class="accrodion active">
                         <div class="accrodion-title">
