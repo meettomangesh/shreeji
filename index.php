@@ -39,10 +39,12 @@ include_once('includes/header.php');
 <div class="slider1-area overlay-default index1">
     <div class="bend niceties preview-1">
         <div id="ensign-nivoslider-3" class="slides nivoSlider">   
-            <img src="img/slides/3.jpg" alt="slider" title="#slider-direction-3">
-            <img src="img/slides/4.jpg" alt="slider" title="#slider-direction-4">
-            <img src="img/slides/5.jpg" alt="slider" title="#slider-direction-5">
-            <img src="img/slides/6.jpg" alt="slider" title="#slider-direction-6">
+            <img src="img/slides/cosmetic.jpg" alt="slider" title="#slider-direction-cosmetic">
+            <img src="img/slides/hair_care.jpg" alt="slider" title="#slider-direction-hair_care">
+            <img src="img/slides/oral_hygiene.jpg" alt="slider" title="#slider-direction-oral_hygiene">
+            <img src="img/slides/personal_care.jpg" alt="slider" title="#slider-direction-personal_care">
+			<img src="img/slides/pharmaceutical.jpg" alt="slider" title="#slider-direction-pharmaceutical">
+			<img src="img/slides/advanced_food.jpg" alt="slider" title="#slider-direction-advanced_food">
         </div>
         <!-- <div class="nivo-controlNav nivo-thumbs-enabled"></div>  -->
         <div id="slider-direction-1" class="t-cn slider-direction">
