@@ -70,7 +70,7 @@ include_once('includes/header.php');
             <p>Shreeji Enterprises is one of the top lami tube manufacturer in India. Company is located in Pune, Maharashtra. Having integrated production facility and R & D team. We strive to provide techno-packaging solutions for your products. We continously work for developing packaging products to simplify the packaging needs & solutions to yours complex packaging needs. </p>
             <span class="decor"><span class="inner"></span></span>
         </div>
-        <div class="row causes-style piechart-style">
+        <!--<div class="row causes-style piechart-style">
             <div class="col-sm-12 col-md-4 col-lg-4"></div>
             <div class="col-sm-12 col-md-4 col-lg-4">
                 <div class="clt">
@@ -103,7 +103,7 @@ include_once('includes/header.php');
             </div>
             <div class="col-sm-12 col-md-4 col-lg-4"></div>
         </div>
-        <!--<div class="row causes-style piechart-style">
+        <div class="row causes-style piechart-style">
             <div class="col-sm-12 col-md-4 col-lg-4">
                 <div class="causes sm-col5-center mb_30">
                     <div class="thumb">

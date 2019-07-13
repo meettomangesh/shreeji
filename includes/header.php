@@ -94,7 +94,12 @@
                             <li class="dropdown">
                                 <a href="index">Product</a>
                                 <ul class="submenu">
-                                    <li><a href="laminated_tubes">Laminated Tube</a></li>
+                                    <li><a href="javascript:void(0);">Laminated Tube</a>
+									<ul class="submenu">
+										<li><a href="tube_specification">Tube Specification</a></li>
+										<li><a href="tube_application">Tube Application</a></li>
+									</ul> 
+									</li>
                                     <li><a href="tubes_caps">Tubes Caps</a></li>
                                     <li><a href="engineering_module">Production Work & Engineering Module</a></li>
                                 </ul>

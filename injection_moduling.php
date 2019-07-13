@@ -48,7 +48,7 @@ include_once('includes/header.php');
                             </div>
                             <ul>
                                 <li><span style="font-size:12.0pt">Tube caps</span></li>
-                                <li><span style="font-size:12.0pt">Measuring caps</span></li>
+                                <li><span style="font-size:12.0pt">Measuring cups</span></li>
                                 <li><span style="font-size:12.0pt">Technical products for Medical and Electronic industry</span></li>
    
                             </ul>
