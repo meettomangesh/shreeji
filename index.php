@@ -38,13 +38,13 @@ include_once('includes/header.php');
 </style>
 <div class="slider1-area overlay-default index1">
     <div class="bend niceties preview-1">
-        <div id="ensign-nivoslider-3" class="slides nivoSlider">   
-            <img src="img/slides/cosmetic.jpg" alt="slider" title="#slider-direction-cosmetic">
-            <img src="img/slides/hair_care.jpg" alt="slider" title="#slider-direction-hair_care">
-            <img src="img/slides/oral_hygiene.jpg" alt="slider" title="#slider-direction-oral_hygiene">
-            <img src="img/slides/personal_care.jpg" alt="slider" title="#slider-direction-personal_care">
-			<img src="img/slides/pharmaceutical.jpg" alt="slider" title="#slider-direction-pharmaceutical">
-			<img src="img/slides/advanced_food.jpg" alt="slider" title="#slider-direction-advanced_food">
+                <div id="ensign-nivoslider-3" class="slides nivoSlider">   
+            <img src="img/slides/application/cosmetic_header_big.jpg" alt="slider" title="#slider-direction-cosmetic">
+            <img src="img/slides/application/hair_care_header_big.jpg" alt="slider" title="#slider-direction-hair_care">
+            <img src="img/slides/application/oral_care_header_big.jpg" alt="slider" title="#slider-direction-oral_hygiene">
+            <img src="img/slides/application/personal_care_header_big.jpg" alt="slider" title="#slider-direction-personal_care">
+			<img src="img/slides/application/pharmaceutical_header_big.jpg" alt="slider" title="#slider-direction-pharmaceutical">
+			<img src="img/slides/application/food_header_big.jpg" alt="slider" title="#slider-direction-advanced_food">
         </div>
         <!-- <div class="nivo-controlNav nivo-thumbs-enabled"></div>  -->
         <div id="slider-direction-1" class="t-cn slider-direction">
